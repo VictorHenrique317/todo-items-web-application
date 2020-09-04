@@ -1,2 +1,13 @@
-com/config/WebConfig.class
+com/model/TodoItem.class
+com/service/DemoService.class
+com/service/DemoServiceImpl.class
 com/config/WebAppInitializer.class
+com/config/WebConfig.class
+com/utils/ViewNames.class
+com/controller/TodoItemController.class
+com/controller/DemoController.class
+com/model/TodoData.class
+com/utils/Mappings.class
+com/service/TodoItemService.class
+com/utils/AttributeNames.class
+com/service/TodoItemServiceImpl.class
