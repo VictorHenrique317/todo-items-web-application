@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>"Add items"</title>
+        <title>Add items</title>
     </head>
     <body>
         <div align="center">
@@ -23,7 +23,7 @@
                     </tr>
                     <tr>
                         <td><label>Deadline</label></td>
-                        <td><form:input path="deadLine"/></td>
+                        <td><form:input type="date" path="deadLine"/></td>
                     </tr>
                     <tr>
                         <td><label>Details</label></td>
